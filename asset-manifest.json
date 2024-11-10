@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/fallout_bb/static/css/main.f855e6bc.css",
-    "main.js": "/fallout_bb/static/js/main.87d39e8a.js",
+    "main.js": "/fallout_bb/static/js/main.9f4588cb.js",
+    "static/media/anton.gif": "/fallout_bb/static/media/anton.26fda9f2e4e645bedf04.gif",
     "index.html": "/fallout_bb/index.html",
     "main.f855e6bc.css.map": "/fallout_bb/static/css/main.f855e6bc.css.map",
-    "main.87d39e8a.js.map": "/fallout_bb/static/js/main.87d39e8a.js.map"
+    "main.9f4588cb.js.map": "/fallout_bb/static/js/main.9f4588cb.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.87d39e8a.js"
+    "static/js/main.9f4588cb.js"
   ]
 }
