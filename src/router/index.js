@@ -6,7 +6,10 @@ const router = createBrowserRouter(
       <Route index element={<p>efefee?</p>} />
       <Route path={process.env.REACT_APP_PROTECTING_HASH} element={<p>EFEFEFEFEFEFE</p>} />
     </Route>
-  )
+  ),
+  {
+    basename: import.meta.env.BASE_URL,
+  }
 );
 
 export default router;
