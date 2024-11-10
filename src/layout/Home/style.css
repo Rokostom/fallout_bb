@@ -1,0 +1,22 @@
+.mstr_container {
+  display: flex;
+  justify-content: center;
+  padding: 5%;
+}
+
+.mstr-button {
+  transition: 1s;
+  width: 20%;
+  background: none;
+  border: none;
+}
+
+.mstr-button:hover {
+  transform: scale(1.1);
+  transition: 1s;
+  cursor: pointer;
+}
+
+.mstr {
+  width: 100%;
+}
