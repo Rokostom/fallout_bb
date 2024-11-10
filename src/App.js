@@ -1,10 +1,10 @@
 import './App.css';
+import anton from './anton.gif';
 
 function App() {
   return (
     <div className="App">
-      <h1>Test cases</h1>
-      <p>1. Run</p>
+      <img src={anton} alt="anton" />
     </div>
   );
 }
