@@ -18,4 +18,7 @@ jobs:
           npm run build
 
       - name: Deploy 🚀
-        run: npm run deploy
+        run: |
+          git config set user.name rokostom
+          git config set user.email togglermap@gmail.com
+          npm run deploy
