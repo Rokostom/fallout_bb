@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/fallout_bb/static/css/main.e5ba8e97.css",
-    "main.js": "/fallout_bb/static/js/main.5c4e1c01.js",
-    "static/media/fallout_new_vegas_mystery_stranger.mp3": "/fallout_bb/static/media/fallout_new_vegas_mystery_stranger.1271960a03dc83d2ac15.mp3",
-    "static/media/mstr.svg": "/fallout_bb/static/media/mstr.73451125d5703a53d4301ee82bb3e7df.svg",
+    "main.css": "/fallout_bb/static/css/main.9ee2eca7.css",
+    "main.js": "/fallout_bb/static/js/main.32ab8776.js",
+    "static/media/FondFallout.mp4": "/fallout_bb/static/media/FondFallout.d00a53edba534cdf239f.mp4",
     "index.html": "/fallout_bb/index.html",
-    "main.e5ba8e97.css.map": "/fallout_bb/static/css/main.e5ba8e97.css.map",
-    "main.5c4e1c01.js.map": "/fallout_bb/static/js/main.5c4e1c01.js.map"
+    "main.9ee2eca7.css.map": "/fallout_bb/static/css/main.9ee2eca7.css.map",
+    "main.32ab8776.js.map": "/fallout_bb/static/js/main.32ab8776.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5ba8e97.css",
-    "static/js/main.5c4e1c01.js"
+    "static/css/main.9ee2eca7.css",
+    "static/js/main.32ab8776.js"
   ]
 }
