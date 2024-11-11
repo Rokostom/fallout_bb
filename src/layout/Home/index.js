@@ -1,18 +1,12 @@
-import mysteryStranger from '../../items/images/mstr.svg';
-import mysterySound from '../../items/audio/fallout_new_vegas_mystery_stranger.mp3';
+import background from '../../items/video/FondFallout.mp4';
 import './style.css';
 
 const Home = () => {
-  const audio = new Audio(mysterySound);
-  const onClick = () => {
-    audio.volume = 0.2;
-    audio.play();
-  };
   return (
-    <div className="mstr_container">
-      <button className="mstr-button" onClick={onClick}>
-        <img className="mstr" src={mysteryStranger} alt="" />
-      </button>
+    <div className="home_container">
+      <video className="video_background" autoPlay loop muted>
+        <source src={background} type="video/mp4" />
+      </video>
     </div>
   );
 };
